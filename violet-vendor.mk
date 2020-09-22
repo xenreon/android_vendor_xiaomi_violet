@@ -1074,6 +1074,8 @@ PRODUCT_PACKAGES += \
     datastatusnotification \
     embms \
     imssettings \
+    HotwordEnrollmentOKGoogleHEXAGON \
+    HotwordEnrollmentXGoogleHEXAGON \
     WfdService \
     dpmserviceapp \
     ims \
